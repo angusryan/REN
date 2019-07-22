@@ -2,7 +2,7 @@
 
 *Under Development*
 
-An emergency button designed as a wristband for the elderly to (*REACT*) press in the event of an accident (*Emergency*), notifying (*Notification*) family or nursing home staff via an app that an incident has occured.
+An emergency button designed as a wristband for the elderly to (*REACT*) press in the event of an accident (*EMERGENCY*), notifying (*NOTIFICATION*) family or nursing home staff via an app that an incident has occured.
 
 The wristband will be connected to the internet via WiFi, when the button is pressed in the event of an emergency a ping will be sent up to a server, which will trigger a notification to be displayed on any family members or/and staff mobiles.
 
