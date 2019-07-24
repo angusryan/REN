@@ -33,3 +33,5 @@ The device is being designed in a way that it is *simple yet effecitve*. It shou
 - Add a GPS incase the elderly leave their tradiontal environment.
 - Add a speaker and mic to give the ability for a conversation to be held between the elderly and family until help arrives.
 - Accelerometer to detect a fall 
+- Heart Rate monitor
+- Use speaker to remind to take pills, tell the time or even notify of events on for the day, hairdresser, doctors appointment. 
